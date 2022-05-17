@@ -68,7 +68,7 @@ public class Admin_Rights extends JFrame implements ActionListener {
         userdetailsButton.setBounds(400,475,150,30);
         userdetailsButton.setBackground(Color.lightGray);
 
-        view_parked_cars.setBounds(400,625,150,30);
+        view_parked_cars.setBounds(300,550,150,30);
         view_parked_cars.setBackground(Color.lightGray);
         
         InParking.setBounds(400,625,150,30);
